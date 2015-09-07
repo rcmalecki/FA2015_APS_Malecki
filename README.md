@@ -29,7 +29,7 @@ I am planning to launch an online jewelry store by the end of the year, using th
 
 **12.	GitHub** – This is the tool I will be using to share my files with others in this class. 
 
-**13	Etsy** – This is what I will be using for actual transactions. It probably won’t come into play until after this course, but it’s possible that I will get to the point of setting this up too, so I can link my site back to my Etsy listings/shopping cart options. 
+**13.	Etsy** – This is what I will be using for actual transactions. It probably won’t come into play until after this course, but it’s possible that I will get to the point of setting this up too, so I can link my site back to my Etsy listings/shopping cart options. 
 
-**14	Facebook** –I plan to use this to advertise my store to family, friends, and beyond. I’m not sure if this step will be something that I get to during class, but I will be discussing it in my marketing plan. 
+**14.	Facebook** –I plan to use this to advertise my store to family, friends, and beyond. I’m not sure if this step will be something that I get to during class, but I will be discussing it in my marketing plan. 
 
