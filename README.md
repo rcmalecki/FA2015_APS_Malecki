@@ -1,6 +1,6 @@
 #Jewelery Store Launch
 
-##**Project Owner:**Rhonda Malecki
+##**Project Owner:** Rhonda Malecki
 ##**Total Project Deliverable Summary:**
 I am planning to launch an online jewelry store by the end of the year, using this course as the launching pad to get me there. The deliverables for this project will be three-fold: a marketing plan, a logo, and a draft website. 
 ##**Technology List:**
