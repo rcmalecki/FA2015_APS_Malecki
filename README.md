@@ -1,4 +1,4 @@
-#Jewelery Store Launch
+#Jewelry Store Launch
 
 ##**Project Owner:** Rhonda Malecki
 ##**Total Project Deliverable Summary:**
